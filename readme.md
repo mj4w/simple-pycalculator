@@ -1,6 +1,6 @@
 # Python Calculator Project
 
-[![CI](https://github.com/your-username/your-repo/actions/workflows/python-ci.yml/badge.svg)](https://github.com/your-username/your-repo/actions)
+[![CI](https://github.com/mj4w/simple-pycalculator/actions/workflows/python-ci.yml/badge.svg)](https://github.com/mj4w/simple-pycalculator/actions)
 
 A simple calculator implementation with tests and CI/CD setup.
 
